@@ -1,0 +1,40 @@
+header.top{
+	background-color: #FFDFBB
+}
+p.fecha{
+	font: 20px/100% bold Georgia,serif
+}
+input{
+	font: 20px/100% bold Georgia,serif
+	font-color:#B20000;
+}
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+li{
+float:left;
+}
+a:link,a:visited{
+display:block;
+font: 12px/100% bold verdana,sans-serif;
+width:100px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#B20000;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#FFDFBB;
+}
+article.destacado{
+	h2{
+
+	}
+}
